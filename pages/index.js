@@ -248,7 +248,7 @@ export default function Home() {
                         year.
                       </p>
                       <a
-                        href="https://deletemenow.myshopify.com/pages/projection-plan"
+                        href="https://shop.deletemenow.com/pages/projection-plan"
                         target="_blank"
                         rel="noreferrer"
                         className="m-auto btn btn-primary font-weight-bold"
